@@ -225,12 +225,3 @@ Contributions are welcome! To contribute:
 
 Please include tests and documentation for new features.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For questions or support, contact the project maintainer at [nitinvasishtha16@example.com] or open an issue on the repository.
-
-Happy Querying! 🚀
