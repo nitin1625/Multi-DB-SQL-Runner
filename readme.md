@@ -231,6 +231,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or support, contact the project maintainer at [your-email@example.com] or open an issue on the repository.
+For questions or support, contact the project maintainer at [nitinvasishtha16@example.com] or open an issue on the repository.
 
 Happy Querying! 🚀
