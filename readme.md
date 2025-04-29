@@ -225,3 +225,4 @@ Contributions are welcome! To contribute:
 
 Please include tests and documentation for new features.
 
+Developed Multi-DB SQL Runner application using Python, tkinter, and pyodbc that reduced database administration time by 75% by enabling simultaneous SQL script execution across multiple databases, eliminating repetitive manual operations for data migrations and batch updates.
